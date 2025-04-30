@@ -1,11 +1,11 @@
 Develop a program to create a option menu using checkboxes and display the toast selected checkboxes with Android Studio
-AIM:
+# AIM:
 
 To Develop a program for creating a option menu using checkboxes and display the toast selected checkboxes with Android Studio.
 EQUIPMENTS REQUIRED:
 
 Android Studio(Min. required Artic Fox)
-ALGORITHM:
+# ALGORITHM:
 
 Step 1: Open Android Studio and then click on File -> New -> New project.
 
@@ -20,7 +20,7 @@ Step 5: Design layout in activity_main.xml.
 Step 6: Once the Selected check box displayed to the user processed in MainActivity.java
 
 Step 7: Save and run the application.
-Program:
+# Program:
 
 /*
 Program to create an Option Menu
@@ -167,10 +167,10 @@ AndroidMainfest.xml
 
 </manifest>
 
-Output
+# Output
 ![8 1](https://github.com/user-attachments/assets/fc3b245a-9768-4d5b-8087-d9451e7d377a)
 ![8 2](https://github.com/user-attachments/assets/8ed2719d-0f51-4565-a186-e8eb4b2bf149)
 
 
-Result:
+# Result:
 Thus a Simple Android Application to create an check box and display the selected check box using Android Studio was developed and executed successfully.
